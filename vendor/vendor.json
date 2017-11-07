@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "mrz/kicZiUaHxkyfvC/DyQcr8Do=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "ecdeabc65495df2dec95d7c4a4c3e021903035e5",
+			"revisionTime": "2017-10-02T20:02:53Z"
+		},
+		{
+			"checksumSHA1": "+ao5OeNsFj1ZJqsaS55I3oAMrcY=",
+			"path": "github.com/joeshaw/envdecode",
+			"revision": "6326cbed175e32cd5183be1cc1027e0823c91edb",
+			"revisionTime": "2016-06-25T03:51:10Z"
+		},
+		{
+			"checksumSHA1": "LuFv4/jlrmFNnDb/5SCSEPAM9vU=",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "792786c7400a136282c1664665ae0a8db921c6c2",
+			"revisionTime": "2016-01-10T10:55:54Z"
+		},
+		{
+			"checksumSHA1": "BYvROBsiyAXK4sq6yhDe8RgT4LM=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "89742aefa4b206dcf400792f3bd35b542998eb3b",
+			"revisionTime": "2017-08-22T13:27:46Z"
+		},
+		{
+			"checksumSHA1": "mGbTYZ8dHVTiPTTJu3ktp+84pPI=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "2aa2c176b9dab406a6970f6a55f513e8a8c8b18f",
+			"revisionTime": "2017-08-14T20:04:35Z"
+		},
+		{
+			"checksumSHA1": "5Yb2z6UO+Arm/TEd+OEtdnwOt1A=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "687d4b818545e443c8ba223cbef20b1721afd4db",
+			"revisionTime": "2017-11-05T15:18:38Z"
+		},
+		{
+			"checksumSHA1": "o488+ga+15Q8yBSYYpMm2yjcv24=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "75813c647272dd855bda156405bf844a5414f5bf",
+			"revisionTime": "2017-11-07T09:14:50Z"
+		},
+		{
+			"checksumSHA1": "8BcMOi8XTSigDtV2npDc8vMrS60=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "75813c647272dd855bda156405bf844a5414f5bf",
+			"revisionTime": "2017-11-07T09:14:50Z"
+		},
+		{
+			"checksumSHA1": "Wx2FYL6OLgZ/9PF1nb+hhNoXcTo=",
+			"path": "gopkg.in/jarcoal/httpmock.v1",
+			"revision": "cf52904a3cf0f78f199ecade6a6df8e245d5b25a",
+			"revisionTime": "2017-04-12T08:57:02Z"
+		}
+	],
+	"rootPath": "github.com/jmervine/ghwh"
+}
